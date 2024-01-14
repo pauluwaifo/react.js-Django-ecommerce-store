@@ -1,0 +1,1 @@
+export const PAYSTACK_PUBLIC_KEY = 'pk_test_69d724d5bb5414f98ce05c6399f6e5ee9ed5d92b';
